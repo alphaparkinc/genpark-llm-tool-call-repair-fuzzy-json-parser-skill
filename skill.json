@@ -1,0 +1,16 @@
+{
+  "name": "genpark-llm-tool-call-repair-fuzzy-json-parser-skill",
+  "version": "1.0.0",
+  "description": "Fault-tolerant LLM tool call payload repair, unescaped quote sanitization, and markdown codefence stripper.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "json-repair",
+    "fuzzy-json",
+    "tool-call",
+    "resilience",
+    "dirtyjson",
+    "genpark",
+    "mcp"
+  ]
+}
